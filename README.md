@@ -6,3 +6,11 @@ option value calc
 Monte-Carlo
 
 Binomial
+
+Why have I done this?
+
+Optimisations/Features
+
+What have I learnt?
+
+Things to improve
