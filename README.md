@@ -4,10 +4,11 @@
 
 - [Introduction](#introduction)
 - [Why have I made this?](#why-have-i-made-this)
-- [File Structure](#file-structure)
-- [Optimisations/Features](#optimisationsfeatures)
+- [Features](#features)
+- [Optimisations](#optimisations)
 - [What have I learnt from this?](#what-have-i-learnt-from-this)
 - [Improvements to be made](#improvements-to-be-made)
+- [File Structure](#file-structure)
 - [How to use this?](#how-to-use-this)
 
 ## Introduction
