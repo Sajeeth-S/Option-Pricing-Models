@@ -14,7 +14,7 @@
 
 This project is a deep exploration into the following three foundational option pricing models used in financial derivatives pricing:
 
--**Black-Scholes Model:** A closed-form solution for pricing European/Binary call and put options, derived using stochastic calculus.
+-**Black-Scholes Model:** A closed-form solution for pricing European/Binary call and put options, derived using stochastic calculus
 -**Binomial Tree Model:** A discrete-time framework that models asset price evolution over multiple time steps, suitable for both European and American options
 -**Monte Carlo Simulation:** A flexible numerical method that estimates option prices by simulating thousands of random asset price paths
 
